@@ -8,11 +8,7 @@ README
 |---|---
 |E-mail|Jelly.K.Wang@qq.com
 
-|Chip         |       WakeNet               |        MultiNet             |           AFE          |         esp-tts     |
-|:----------- |:--------------------------: | :--------------------------:| :---------------------| :---------------------|
-|ESP32        | WakeNet5 | MultiNet2_ch | AFE_1mic | esp-tts_ch |
-|ESP32-S2     |          |              |          | esp-tts_ch |
-|ESP32-S3     |   WakeNet7 & WakeNet8  | MultiNet3_ch & MultiNet5_en |    AFE_2mic   |
+ |Chip         |         v3.3           |          v4.0          |           v4.1         |          v4.2          |         v4.3           |          v4.4          |                                                            ||:----------- |:---------------------: | :---------------------:| :---------------------:| :---------------------:| :---------------------:| :---------------------:|:---------------------------------------------------------- ||ESP32        | ![alt text][supported] | ![alt text][supported] | ![alt text][supported] | ![alt text][supported] | ![alt text][supported] | ![alt text][supported] |                                                            ||ESP32-S2     |                        |                        |                        | ![alt text][supported] | ![alt text][supported] | ![alt text][supported] |                                                            ||ESP32-C3     |                        |                        |                        |                        | ![alt text][supported] | ![alt text][supported] |                                                            ||ESP32-S3     |                        |                        |                        |                        | ![alt text][preview]   | ![alt text][supported] | [Announcement](https://www.espressif.com/en/news/ESP32_S3) ||ESP32-H2     |                        |                        |                        |                        |                        | ![alt text][preview]   | [Announcement](https://www.espressif.com/en/news/ESP32_H2) |
 
 ****
 ## 目录

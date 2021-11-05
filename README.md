@@ -8,10 +8,10 @@ README
 |---|---
 |E-mail|Jelly.K.Wang@qq.com
 
-|Chip         |       WakeNet         |        MultiNet        |           AFE         |         esp-tts     |
-|:----------- |:---------------------: | :---------------------:| :---------------------:| :---------------------:|
+|Chip         |       WakeNet               |        MultiNet             |           AFE          |         esp-tts     |
+|:----------- |:--------------------------: | :--------------------------:| :---------------------| :---------------------|
 |ESP32        | WakeNet5 | MultiNet2_ch | AFE_1mic | esp-tts_ch |
-|ESP32-S2     |          |              |          | esp-tts_ch |                                               
+|ESP32-S2     |          |              |          | esp-tts_ch |
 |ESP32-S3     |   WakeNet7 & WakeNet8  | MultiNet3_ch & MultiNet5_en |    AFE_2mic   |
 
 ****
